@@ -1,3 +1,7 @@
+create database DanhSachVe
+go
+use DanhSachVe
+go
 create table Ve
 (
 	MaKH varchar(20),
