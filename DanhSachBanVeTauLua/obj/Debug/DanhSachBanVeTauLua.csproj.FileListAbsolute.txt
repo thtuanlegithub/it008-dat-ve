@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\bin\Debug\DanhSachBanVeTauLua.exe.config
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\bin\Debug\DanhSachBanVeTauLua.exe
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\bin\Debug\DanhSachBanVeTauLua.pdb
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.Properties.Resources.resources
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.exe
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.pdb
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.FormDanhSachVe.resources
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.FormDatVe.resources
+C:\Users\thanh\source\repos\IT008_ThiThucHanh\DanhSachBanVeTauLua\obj\Debug\DanhSachBanVeTauLua.FormThongTinVe.resources
